@@ -1,0 +1,220 @@
+
+.top{
+    width: 1280px;
+    height: 100px; 
+}
+.top>h1{
+    text-align: center;
+    font-size: 50px;
+}
+.top1{
+    display: flex;
+    width: 1280px;
+    height: 50px;
+    background-color: rgba(0, 255, 255, 0.555);
+}
+
+.video{
+    z-index: 1;
+}
+
+
+.home{
+    text-decoration: none;
+    color: black;
+    padding: 18px;
+    text-align: center;
+    flex:30%;
+    font-weight: bolder;
+}
+.menu{
+    padding: 18px;
+    text-align: center;
+    flex:40%;
+    font-weight: bolder;
+    overflow: hidden;
+}
+
+.sebmenu{
+    height: 50px;
+    z-index: 0;
+}
+
+.soga{
+    padding: 18px;
+    text-align: center;
+    flex: 30%;
+    font-weight: bolder;
+}
+
+.top-mid{
+    width: 1280px;
+    height: 200px;
+}
+
+nav>img{
+    width: 1280px;
+    height: 200px;
+}
+
+.mid{
+    height: 250px;
+    width: 1280px;
+    display: flex;
+}
+
+.mid-left{
+    font-size: 15px;
+    width: 100px;
+    background-color: rgba(0, 255, 255, 0.555);
+    height: 220px;
+    flex: 20%;
+    float: left;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.main{
+    
+    text-decoration: none;
+    color: black;
+}
+
+.k-food{
+    text-decoration: none;
+    color: black;
+}
+
+.c-food{
+    text-decoration: none;
+    color: black;
+}
+
+.j-food{
+    text-decoration: none;
+    color: black;
+}
+
+.a-food{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.mid-right{
+    height: 200px;
+    flex: 80%;
+    display: flex;
+    float: right;
+    
+}
+
+.right1{
+    background-color: white;
+    height: 250px;
+    flex: 20%;  
+}
+.right1>div{
+    text-align: center;
+    font-size: 18.4px;
+    font-weight: bolder;
+}
+
+.right1>img{
+    margin-top: 30px;
+    margin-left: 10px;
+    width :250px;
+    height: 200px;
+}
+
+.right2{
+    background-color: white;
+    height: 250px;
+    flex: 20%;
+    
+}
+
+.right2>div{
+    text-align: center;
+    font-size: 18.4px;
+    font-weight: bolder;
+}
+.right2>img{
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 250px;
+    height: 200px;
+}
+
+.right3{
+    background-color: white;
+    height: 250px;
+    flex: 20%;
+}
+.right3>div{
+    text-align: center;
+    font-size: 18.4px;
+    font-weight: bolder;
+}
+
+.right3>img{
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 250px;
+    height: 200px;
+}
+
+.right4{
+    background-color: white;
+    height: 250px;
+    flex: 20%;
+}
+
+.right4>div{
+    text-align: center;
+    font-size: 18.4px;
+    font-weight: bolder;
+}
+.right4>img{
+    height: 200px;
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 250px;
+}
+
+.bottom{
+    height: 200px;
+    font-size: 15px;
+    background-color: rgba(0, 255, 255, 0.555);
+    font-family: 'Malgun Gothic';
+}
+
+.p1{
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.p2{
+    font-size: 15px;
+    font-weight: 600;
+}
+.p3{
+    font-size: 15px;
+    font-weight: 700;
+}
+
+
+.bottom>span{
+    font-size: 15px;
+}
+
+ol{
+    font-family: 'Malgun Gothic';
+    font-size: 18px;
+}
+
+ol>li{
+    font-family: 'Malgun Gothic';
+    font-size: 18px;
+}
